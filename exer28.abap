@@ -24,6 +24,7 @@ TYPES: BEGIN OF l_person,
 
 "Create Standard table and variables used in the loop.
 DATA: i_person_table TYPE STANDARD TABLE OF l_person,
+      l_tlines TYPE i,
       l_year TYPE i,
       l_age TYPE i.
 
@@ -65,3 +66,7 @@ DO p_count TIMES.
          / <fs_person>-lv_index.
 ENDDO.
 UNASSIGN <fs_person>.
+
+"table to lines
+DESCRIBE TABLE i_person_table LINES l_tlines.
+WRITE: / l_tlines.
