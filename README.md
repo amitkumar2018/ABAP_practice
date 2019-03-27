@@ -9,7 +9,8 @@ SE37 "Function"
 MM01 "Create Material"
 SE91 "Message Maintenance" 
 SM36 "Define Background Job"
-SE93 "Maintain Transaction"  
+SE93 "Maintain Transaction"
+SE24 "Class Builder"
 
 ### Hackey way to get to SM36 if you don't have access
 
