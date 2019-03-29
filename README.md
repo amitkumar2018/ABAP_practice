@@ -3,14 +3,31 @@ This repo serves to hold my ABAP training exercises. This readme serves to hold 
 
 ### Frequently used T-codes
 
-SE38 "ABAP Editor"  
-SE80 "Object Navigator"  
-SE37 "Function"  
-MM01 "Create Material"
-SE91 "Message Maintenance" 
-SM36 "Define Background Job"
-SE93 "Maintain Transaction"
-SE24 "Class Builder"
+SE11  "ABAP Dictionary"   
+SE16  "Data Browser"  
+SE16N "General Table Display" 
+SE24  "Class Builder"  
+SE37  "Function"  
+SE38  "ABAP Editor"  
+SE80  "Object Navigator"  
+SE91  "Message Maintenance"  
+SE93  "Maintain Transaction"  
+
+SM30  "Maintain Table Views"   
+SM36  "Define Background Job"    
+SM37  "Simple Job Selection"      
+
+MM01 "Create Material"  
+MM02 "Change Material"  
+MM03 "Display Material"  
+
+XD01 "Customer Create"  
+XD02 "Customer Change"  
+XD03 "Customer Display"  
+
+XK01 "Create Vendor"  
+XK02 "Change Vendor"  
+xk03 "Display Vendor"  
 
 ### Hackey way to get to SM36 if you don't have access
 
