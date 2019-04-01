@@ -29,6 +29,11 @@ XK01 "Create Vendor"
 XK02 "Change Vendor"  
 xk03 "Display Vendor"  
 
+### Keyboard Shortcuts
+
+CRTL+,  "Line and Block Comments"
+CRTL+.  "Line and Block unCo
+
 ### Hackey way to get to SM36 if you don't have access
 
 * Got to SE93
