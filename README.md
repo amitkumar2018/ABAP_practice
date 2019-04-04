@@ -5,7 +5,7 @@ This repo serves to hold my ABAP training exercises. This readme serves to hold 
 
 SE11  "ABAP Dictionary"   
 SE16  "Data Browser"  
-SE16N "General Table Display" 
+SE16N "General Table Display"   
 SE24  "Class Builder"  
 SE37  "Function"  
 SE38  "ABAP Editor"  
