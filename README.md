@@ -31,8 +31,8 @@ xk03 "Display Vendor"
 
 ### Keyboard Shortcuts
 
-CRTL+,  "Line and Block Comments"
-CRTL+.  "Line and Block unCo
+CRTL+,  "Line and Block Comments"  
+CRTL+.  "Line and Block unComment"
 
 ### Hackey way to get to SM36 if you don't have access
 
